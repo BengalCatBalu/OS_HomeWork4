@@ -1,0 +1,3 @@
+/Users/efimovivan/Desktop/OS_HomeWork4/cmake-build-ubsan/CMakeFiles/OS_Homework4.dir
+/Users/efimovivan/Desktop/OS_HomeWork4/cmake-build-ubsan/CMakeFiles/edit_cache.dir
+/Users/efimovivan/Desktop/OS_HomeWork4/cmake-build-ubsan/CMakeFiles/rebuild_cache.dir
